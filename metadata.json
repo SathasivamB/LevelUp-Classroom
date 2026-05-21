@@ -1,0 +1,6 @@
+{
+  "name": "LevelUp Classroom",
+  "description": "An interactive, gamified workbook studying journal featuring science quests, live leaderboards, active classroom missions, item redemption, custom titles, and miniature orbital games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
